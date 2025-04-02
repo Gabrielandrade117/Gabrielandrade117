@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gabrielandrade117
+👋 Hi, I’m @Gabrielandrade117
 Sou um aprendiz de Desenvolvimento de Sistemas apaixonado por tecnologia e programação. Moro em Sobral, e estou sempre buscando aprender mais e aprimorar minhas habilidades no desenvolvimento de software.
 
 🚀 Interesses
